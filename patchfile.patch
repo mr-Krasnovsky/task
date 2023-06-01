@@ -1,0 +1,27 @@
+From 7768ea3b4bbfa79be815fdccb2044a922e843373 Mon Sep 17 00:00:00 2001
+From: Maxim Krasnov <mr.krasnovsky@gmail.com>
+Date: Thu, 1 Jun 2023 19:37:21 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..bf205c6 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ 1
+ 2
+ 3
+-4
+-5
++4a
++5b
+ 6
+ 7
+ 8
+-- 
+2.40.0.windows.1
+
